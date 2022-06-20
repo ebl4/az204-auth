@@ -1,0 +1,17 @@
+C:\Projetos\az204-auth\bin\Debug\net6.0\az204-auth.exe
+C:\Projetos\az204-auth\bin\Debug\net6.0\az204-auth.deps.json
+C:\Projetos\az204-auth\bin\Debug\net6.0\az204-auth.runtimeconfig.json
+C:\Projetos\az204-auth\bin\Debug\net6.0\az204-auth.dll
+C:\Projetos\az204-auth\bin\Debug\net6.0\ref\az204-auth.dll
+C:\Projetos\az204-auth\bin\Debug\net6.0\az204-auth.pdb
+C:\Projetos\az204-auth\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.csproj.AssemblyReference.cache
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.AssemblyInfoInputs.cache
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.AssemblyInfo.cs
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.csproj.CoreCompileInputs.cache
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.csproj.CopyComplete
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.dll
+C:\Projetos\az204-auth\obj\Debug\net6.0\ref\az204-auth.dll
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.pdb
+C:\Projetos\az204-auth\obj\Debug\net6.0\az204-auth.genruntimeconfig.cache
